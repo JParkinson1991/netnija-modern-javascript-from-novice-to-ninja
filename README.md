@@ -10,15 +10,15 @@ https://netninja.dev/p/modern-javascript-from-novice-to-ninja
 
 | Chapter | Name                                 | Completed          |
 |---------|--------------------------------------|--------------------|
-| 1       | Course Introduction                  | :white_check_mark: |
-| 2       | Javascript Basics                    | :white_check_mark: |
-| 3       | Control Flow Basics                  | :white_check_mark: |
-| 4       | Functions & Methods                  | :white_check_mark: |
-| 5       | Object Literals                      | :white_check_mark: |
-| 6       | The Document Object Model            | :white_check_mark: |
-| 7       | Forms & Form Events                  | :white_check_mark: |
-| 8       | Project - Interactive Ninja Quiz     | :white_check_mark: |
-| 9       | Array Methods                        | :white_check_mark: |
+| 01      | Course Introduction                  | :white_check_mark: |
+| 02      | Javascript Basics                    | :white_check_mark: |
+| 03      | Control Flow Basics                  | :white_check_mark: |
+| 04      | Functions & Methods                  | :white_check_mark: |
+| 05      | Object Literals                      | :white_check_mark: |
+| 06      | The Document Object Model            | :white_check_mark: |
+| 07      | Forms & Form Events                  | :white_check_mark: |
+| 08      | Project - Interactive Ninja Quiz     | :white_check_mark: |
+| 09      | Array Methods                        | :white_check_mark: |
 | 10      | Project - Todo List                  | :white_check_mark: |
 | 11      | Dates & Times                        |                    |
 | 12      | Async Javascript                     |                    |
