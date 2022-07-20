@@ -19,7 +19,7 @@ https://netninja.dev/p/modern-javascript-from-novice-to-ninja
 | 7       | Forms & Form Events                  | :white_check_mark: |
 | 8       | Project - Interactive Ninja Quiz     | :white_check_mark: |
 | 9       | Array Methods                        | :white_check_mark: |
-| 10      | Project - Todo List                  |                    |
+| 10      | Project - Todo List                  | :white_check_mark: |
 | 11      | Dates & Times                        |                    |
 | 12      | Async Javascript                     |                    |
 | 13      | Project - Weather App                |                    |
